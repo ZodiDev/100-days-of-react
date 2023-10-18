@@ -1,5 +1,8 @@
 # 100-days-of-react
-**Introduction**
+
+## Introduction
+
+I have always wanted to become a developer but I lack the skills some other have. I've been programming on and off for several years butmy skills haven't improved at the rate that I want so I started this challenge to do just that. Challenge me to become better at programming. 
 
 ## Day 1: Blog Project
 Date: October 18, 2023
