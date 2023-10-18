@@ -2,14 +2,14 @@
 
 ## Introduction
 
-I have always wanted to become a developer but I lack the skills some other have. I've been programming on and off for several years butmy skills haven't improved at the rate that I want so I started this challenge to do just that. Challenge me to become better at programming. 
+I've always aspired to be a developer, but I've felt my skills lag behind others'. Although I've been coding intermittently for several years, my progress hasn't been as swift as I'd hoped. Thus, I embarked on this challenge to push myself and enhance my programming skills.
 
 ## Day 1: Blog Project
 Date: October 18, 2023
 
 ### Today's Learning
 
-Props. I learned how props work and function in React.
+Props: Gained an understanding of how props function within React.
 
 ### Resources Used
 
@@ -21,29 +21,28 @@ Brocode Tutorial on Props [https://www.youtube.com/watch?v=uvEAvxWvwOs]
 
 Name: Blog
 
-Description: A very basic blog website
+Description: A fundamental blog website
 
-Demo: [Link to deployed demo, e.g. on Vercel, Netlify, GitHub Pages, etc.]
+Demo: [Link to the deployed demo, e.g., on Vercel, Netlify, GitHub Pages, etc.]
 
 ### Challenges Faced
 
-Setting up the best work environment. It ended up being alot of changes later on
-Installing tailwind in vite
+- Fine-tuning the optimal work environment led to numerous modifications.
+- Integrating tailwind with vite.
 
 ### What I'd Do Differently
 
-Firsly reading what exactly to do in the documentation and looking up how to do one thing in vite since it might be different depending on what react library you use
-
-Planning better on how I can build this
-
-Add a little more animation to make it seem more dynamic
-
-I would want to make it so that I can add blog in an easier way so I don't have to hard code it. Which means I would need to spend more time on my projects
+- Prioritize thoroughly reading the documentation and understanding the nuances of implementing features in vite, especially since implementations can vary based on the React library in use.
+  
+- Strategize more effectively about the construction of the project.
+  
+- Introduce subtle animations to enhance the dynamic feel.
+  
+- Aim for a more streamlined approach to adding blog content, avoiding hardcoding, which would warrant dedicating more time to each project.
 
 ### Screenshots / GIFs
 ![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/62f4e37a-81b7-47bf-96a6-08d205031e05)
 
 ### Thoughts & Reflection
 
-I tend to jump right into things without taking a step back and think about what I want to do and how to do it. I need to take it a little easier. This is a problem I have for many things but today it showed how much that can slow me down.
-I did create a decent looking website without looking up too much, maybe I would want to look up a little so that I can learn new things but I am still kinda proud.
+I often dive headfirst into tasks without pausing to strategize. It's essential for me to pace myself. This tendency isn't exclusive to coding but manifests in various areas of my life. Today's experience highlighted how this approach can be counterproductive. Nevertheless, I managed to design a respectable website with minimal external assistance. While I take pride in this, I also recognize the potential benefits of occasionally seeking out external resources to broaden my knowledge.
