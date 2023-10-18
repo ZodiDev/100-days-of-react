@@ -11,7 +11,7 @@ Props. I learned how props work and function in React.
 Resources Used:
 
 Tailwindcss documentation
-Brocode Tutorial on Props [https://www.youtube.com/watch?v=uvEAvxWvwOs&]
+Brocode Tutorial on Props [https://www.youtube.com/watch?v=uvEAvxWvwOs]
 
 Today's Project:
 
