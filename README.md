@@ -14,7 +14,7 @@ Tailwindcss documentation
 
 Brocode Tutorial on Props [https://www.youtube.com/watch?v=uvEAvxWvwOs]
 
-**Today's Project:**
+### **Today's Project:**
 
 Name: Blog
 
