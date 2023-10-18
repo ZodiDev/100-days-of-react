@@ -32,8 +32,8 @@ Add a little more animation to make it seem more dynamic
 I would want to make it so that I can add blog in an easier way so I don't have to hard code it. Which means I would need to spend more time on my projects
 
 Screenshots / GIFs:
+![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/62f4e37a-81b7-47bf-96a6-08d205031e05)
 
-[Optional but adds value. Link to screenshots or GIFs of your project or any UI/feature you built.]
 Thoughts & Reflection:
 
 I tend to jump right into things without taking a step back and think about what I want to do and how to do it. I need to take it a little easier. This is a problem I have for many things but today it showed how much that can slow me down.
