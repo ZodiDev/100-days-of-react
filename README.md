@@ -4,13 +4,13 @@
 Day 1: Blog Project
 Date: October 18, 2023
 
-Today's Learning:
+**Today's Learning:**
 
 Props. I learned how props work and function in React.
 
 Resources Used:
 
-Tailwindcss documentation
+**Tailwindcss documentation**
 Brocode Tutorial on Props [https://www.youtube.com/watch?v=uvEAvxWvwOs]
 
 Today's Project:
@@ -27,7 +27,7 @@ Installing tailwind in vite
 What I'd Do Differently:
 
 Firsly reading what exactly to do in the documentation and looking up how to do one thing in vite since it might be different depending on what react library you use
-Planning better on how I can build this
+Planning better on how I can build this /n
 Add a little more animation to make it seem more dynamic
 I would want to make it so that I can add blog in an easier way so I don't have to hard code it. Which means I would need to spend more time on my projects
 
