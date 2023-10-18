@@ -17,7 +17,9 @@ Brocode Tutorial on Props [https://www.youtube.com/watch?v=uvEAvxWvwOs]
 **Today's Project:**
 
 Name: Blog
+
 Description: A very basic blog website
+
 Demo: [Link to deployed demo, e.g. on Vercel, Netlify, GitHub Pages, etc.]
 
 **Challenges Faced:**
