@@ -1,7 +1,7 @@
 # 100-days-of-react
 **Introduction**
 
-Day 1: Blog Project
+## Day 1: Blog Project
 Date: October 18, 2023
 
 **Today's Learning:**
