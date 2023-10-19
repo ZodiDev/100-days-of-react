@@ -94,7 +94,7 @@ Demo: [Link to the deployed demo, e.g., on Vercel, Netlify, GitHub Pages, etc.]
 - Spend additional time refining the aesthetics of the website.
 
 ### Screenshots / GIFs
-![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/a2bdaa44-0371-4fcb-b350-9488146dfb1b)
+![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/a2bdaa44-0371-4fcb-b350-9488146dfb1b) ![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/bf379798-a05d-4f45-a0e8-db3d1542af77)
 
 ### Thoughts & Reflection
 
