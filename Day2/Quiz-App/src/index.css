@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  background-image: url("./assets/bg.png");
+  background-size: 100%;
+}
+
+.gray-border{
+  width: 31rem;
+  box-shadow: 10px 10px 20px;
+}
+
+.gray-border-small{
+  width: 14.8rem;
+  box-shadow: 10px 10px 20px;
+}
