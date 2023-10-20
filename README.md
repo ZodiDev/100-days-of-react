@@ -133,3 +133,47 @@ The answer-checking logic is duplicated several times and could benefit from mod
 The useEffect in App.jsx directly calls newQuestion. Streamlining this flow could enhance clarity.
 
 In Question.jsx, the redundant curly braces in onClick, e.g., onClick={() => {{props.selecta()}}}, can be simplified to onClick={() => props.selecta()}.
+
+
+## Day 3: Cookie Clicker (Achievement Clicker)
+Date: October 19, 2023
+
+### Today's Learning
+
+- Discovered a more efficient method to employ "useEffect".
+  
+- Similarly, honed a better approach to "useState", particularly when frequent updates are necessary.
+
+### Resources Used
+
+ChatGPT
+
+StackOverflow
+
+### Today's Project
+
+Name: Cookie Clicker
+
+Description: Inspired by "Achievement Clicker", this game operates on the cookie clicker principle, allowing players to purchase upgrades and accumulate more cookies.
+
+Demo: [Link to the deployed demo, e.g., on Vercel, Netlify, GitHub Pages, etc.]
+
+### Challenges Faced
+
+- Encountered obstacles which were overcome using resources like ChatGPT and StackOverflow.
+  
+- The code is somewhat convoluted and lengthier than perhaps necessary.
+
+### What I'd Do Differently
+
+- Put more emphasis on design refinement, ensuring elements are symmetrical. The misalignment, though slight, is currently noticeable.
+  
+- Despite my learning curve, I would opt for a more challenging project in the future. The current task was relatively straightforward and involved much redundant coding, lacking diversity.
+
+### Screenshots / GIFs
+![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/6e7655e9-f66f-4153-8704-c9a4a17cfe94) 
+![image](https://github.com/ZodiDev/100-days-of-react/assets/102633756/5a27f355-1784-482a-a743-f6f2326a809e)
+
+### Thoughts & Reflection
+
+While enjoyable, this project was characterized by repetitive coding and moments of frustration. It didn't push my boundaries as some other endeavors have. A recurring challenge I perceive is my proficiency in design; though my most appealing designs drew heavily from other projects. But the essence of learning is to evolve and enhance our skills. The satisfaction derived from personal achievement, particularly when witnessing the tangible outcomes, is invaluable. My immediate goal is to delve into more JavaScript tutorials and craft an even more impressive project tomorrow.
