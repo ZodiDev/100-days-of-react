@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.playground-screen{
+  height: 75.4rem;
+}
+
+.big-z{
+ font-size: 15rem;
+ user-select: none;
+}
+
+.current-cookie-box{
+  margin-left: 50%;
+  margin-right: auto;
+  transform: translate(-50%, -50%);
+  width: 24rem;
+  height: 7%;
+  margin-top: 5.5rem;
+}
