@@ -136,7 +136,7 @@ In Question.jsx, the redundant curly braces in onClick, e.g., onClick={() => {{p
 
 
 ## Day 3: Cookie Clicker (Achievement Clicker)
-Date: October 19, 2023
+Date: October 20, 2023
 
 ### Today's Learning
 
